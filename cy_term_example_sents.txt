@@ -1,0 +1,30 @@
+1	e+ans	Adborth cadarnhaol 	Gellir cymell gwell perfformiad wrth ddarparu adborth cadarnhaol	Better performance can be incentivized by providing positive feedback
+2	e+ans	Asid sylffwrig 	Rhaid bod yn ofalus wrth gludo asid sylffwrig yn y labordy	Care should be taken when transporting sulphuric acid in the laboratory
+3	be+e	Beicio mynydd 	Mae beicio mynydd yn gamp poblogaidd erbyn hyn	Mountain biking is a popular sport by now
+4	e+ans	batri alcalïaidd 	Mae lefel pH y batri alcalïaidd yn uwch na 7	The pH level of the alkaline battery is higher than 7
+5	e+be	Cyfrif cadw	Bydd hyn yn eich nadu rhag codi arian o’ch cyfrif cadw am gyfnod byr	This will prevent you from withdrawing cash from your deposit account for a short period
+6	e+ans	Coetir collddail	Rhestrwch y mathau o goed sydd i’w canfod mewn coetir collddail	List the types of trees that can be found in a deciduous woodland
+7	e+be	Papur sgraffinio 	Y cam olaf yw defnyddio papur sgraffinio i lyfnhau’r pren	The final step is to use abrasive paper to make the wood smooth
+8	e+e	Cyforgors gorlifdir 	Cafodd y cyforgors gorlifdir hwn ei ffurfio yn sgil y llifogydd difrifol diweddar	This floodplain raised bog was formed due to the recent severe floods
+9	be+ell	Dadansoddi ffactorau 	Dadansoddi ffactorau yw’r dull ystadegol mwyaf effeithlon	Factor analysis is the most effective statistical method
+10	be+ans	Cyfnewid nwyol 	Bydd arwynebedd arwyneb mwy yn cyflymu’r cyfnewid nwyol yn yr ysgyfaint	A larger surface area will speed up the gaseous exchange in the lungs	
+11	e+be	Nodyn casglu 	Seiniwch y nodyn casglu ar gychwyn yr emyn	Sound the gathering note at the beginning of the hymn
+12	e+e	Meddyg teulu 	Rhaid gwneud apwyntiad yn brydlon yn y bore er mwyn gweld eich meddyg teulu ar yr un diwrnod	An appointment must be made proptly in the morning in order to see your general practitioner on the same day
+13	e+be	Tymheredd egino 	Tua 18 gradd yw’r tymheredd egino delfrydol	18 degrees is the ideal germination temperature
+14	e+ans	Llywodraethiant byd-eang 	Fe fyddai cydweithrediad rhyngwladol yn amhosib heb gael llywodraethiant byd-eang effeithlon	International cooperation would be impossible without effective global governance
+15	e+e	Llinell graen 	Mae dilyn y llinell graen yn bwysig wrth wnïo ffabrigau	Following the grain line is important while sewing fabrics
+16	e+ans+ans	Bara brown garw 	Mae llai o galorïau mewn bara brown garw o gymharu â bara gwyn	There are less calories in granary bread than in white bread
+17	e+be	Tir pori 	Fe fydd yn symud y da byw i'r tir pori newydd yn y gwanwyn	He will be moving the live stock to new grazing land in the spring
+18	e+ans	Gwin coch 	Mae yfed gwin coch da gyda bwyd yn arferedig yn y wlad hon	Drinking good red wine with food is common in this country
+19	e+ans+ans	Graddfa gromatig harmonig 	Sylwch ar batrwm y nodau yn gweithredu fel graddfa gromatig harmonig	Notice the note pattern acting as a harmonic chromatic scale
+20	e+ell	Cludwr nwyddau 	Bydd rhaid cysylltu â'r cludwr nwyddau er mwyn symud y nwyddau i’r warws newydd	The haulage contractor must be contacted in order to move goods to the new warehouse
+21	be+ans	Borio llorweddol	Y peiriant hwn sy’n gwneud y borio llorweddol yn y graig	This machine performs the horizontal boring in the rockface
+22	e+e	cylchred ddŵr 	Mae cylchred ddŵr yn dychwelyd dŵr i'r tir.	A water cycle returns water to the land
+23	e+ans	Chwistrell hypodermig 	Gwelodd y chwistrell hypodermig ar y llawr yn y parc	He saw the hypodermic needle on the floor in the park
+24	e+be	Diwydiant gweithgynhyrchu 	Prinder nwyddau yn sgil ffaeleddau’r diwydiant gweithgynhyrchu sydd yn broblem gynyddol ar gyfer masnach	Scarcity of goods due to the shortcomings of the manufacturing industry which is an increasing problem for trade
+25	be+ans	Garddio masnachol 	Mae dealltwriaeth gyflawn o arddwriaeth yn hanfodol mewn garddio masnachol erbyn hyn	A complete understanding of horticulture is essential in market gardening by now
+26	e+be	Pwyth padio 	Math o bwyth yw’r pwyth padio sy’n caniatáu cysylltu dau ddarn o ffabrig ynghyd	The padding stitch is a type of stitch which facilitates the joining of two pieces of fabric
+27	e+e	Cytundeb Paris 	Ers arwyddo Cytundeb Paris mae camau pellach wedi’u cymryd i frwydro newid hinsawdd	Since the Paris Agreement further steps have been taken to combat climate change
+28	be+ell	Peintio paneli 	Mae hi’n casglu paneli pren ar gyfer ei gwaith peintio paneli	She is gathering wood panels for her panel painting work
+29	eg+ans	Gwaith cymdeithasol 	Mae hyn yn rhoi’r sgiliau i fyfyrwyr ac yn eu paratoi i gymhwyso fel gweithwyr cymdeithasol a dechrau swyddi gwaith cymdeithasol proffesiynol o fewn y gweithlu gofal cymdeithasol. 	This provides students with the skills to qualify as social workers and take up professional social work posts within the social care workforce. 
+30	e+e	Cyllell balet 	Defnyddio cyllell balet i gymysgu’r paent	Using a palette knife to mix the paint
